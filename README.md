@@ -69,4 +69,3 @@ When the user clicks the "Run" button, the `csv_agent_func` function is called t
 
 Depending on the response, the application may display textual information, tables, or plots (e.g., bar charts) generated from the extracted code.
 
-Feel free to customize this README with additional details and instructions specific to your project. It provides users with a clear understanding of your CSV Assistant and how to get started with it.
